@@ -1,0 +1,3 @@
+app.js /usr/share/huayra-compartir-api/
+bin/compartir-api /usr/share/huayra-compartir-api/bin/
+node_modules /usr/share/huayra-compartir-api/bin/node_modules
