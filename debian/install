@@ -1,3 +1,7 @@
 app.js /usr/share/huayra-compartir-api/
+config.js /usr/share/huayra-compartir-api/
 bin/compartir-api /usr/share/huayra-compartir-api/bin/
-node_modules /usr/share/huayra-compartir-api/bin/node_modules
+node_modules /usr/share/huayra-compartir-api/
+view /usr/share/huayra-compartir-api/
+routes /usr/share/huayra-compartir-api/
+public /usr/share/huayra-compartir-api/
