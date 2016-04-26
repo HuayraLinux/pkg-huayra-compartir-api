@@ -9,7 +9,9 @@ Vcs-Git: https://github.com/HuayraLinux/huayra-compartir-api
 
 Package: huayra-compartir-api
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}, node-body-parser,
+         node-cookie-parser, node-debug, node-express, node-serve-favicon,
+         node-cors (>= 0.4.5), node-home-config (>= 0.4.5), node-morgan (>= 0.4.5)
 Description: Permite compartir archivos en una red local.
  Huayra-compartir permite intercambiar archivos y notificaciones
  dentro del aula.
